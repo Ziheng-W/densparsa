@@ -34,4 +34,5 @@ A light-weight method to let systolic arrays accelerate unstructured sparse matr
 
 **P.S.**
 
-I'm just a senior undergraduate, please forgive me if I'm talking trash.
+I'm just a senior undergraduate, please forgive me if my words contain nonsense.
+
